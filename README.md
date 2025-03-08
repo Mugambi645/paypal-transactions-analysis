@@ -2,7 +2,7 @@
 
 - Analysing PayPal Transactions
 
-<img src="Screenshot from 2025-03-08 10-52-25.png" width="200">
+<img src="Screenshot from 2025-03-08 10-52-25.png" width="400">
 
 ## To load it locally:
 
