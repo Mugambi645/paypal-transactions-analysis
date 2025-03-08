@@ -6,7 +6,7 @@
 
 ## To load it locally:
 
-- `git clone`<project url>
+- `git clone`  *project url*
 
 - Run `pip install -r requirements.txt` and then run `pip list` to verify everything was installed correctly
   
